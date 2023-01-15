@@ -1,0 +1,13 @@
+{
+    "root":[{
+        "searchTerms": ["Max", "Mustermann"],
+        "rename_lastname": "Mustermann",
+        "rename_firstname": "Max",
+        "rename_addInfo": "33.00"
+        },{
+        "searchTerms": ["Maximiliane", "Mustermann"],
+        "rename_lastname": "Mustermann",
+        "rename_firstname": "Maxi",
+        "rename_addInfo": "10.00"
+        }]
+}
